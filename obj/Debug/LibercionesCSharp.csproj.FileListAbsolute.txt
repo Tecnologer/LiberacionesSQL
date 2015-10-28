@@ -1,0 +1,24 @@
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe.config
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\bin\Debug\LibercionesCSharp.pdb
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\obj\Debug\LibercionesCSharp.csprojResolveAssemblyReference.cache
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\obj\Debug\LibercionesCSharp.Form1.resources
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\obj\Debug\LibercionesCSharp.Properties.Resources.resources
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\obj\Debug\LibercionesCSharp.csproj.GenerateResource.Cache
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\obj\Debug\LibercionesCSharp.exe
+c:\users\luis morgan\documents\visual studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\obj\Debug\LibercionesCSharp.pdb
+C:\Users\Luis Morgan\Documents\Visual Studio 2012\Projects\LibercionesCSharp\LibercionesCSharp\obj\Debug\LibercionesCSharp.AgregarEditar.resources
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe.config
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.exe
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.pdb
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\bin\Debug\LibercionesCSharp.pdb
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.AgregarEditar.resources
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.Form1.resources
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.Properties.Resources.resources
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe.manifest
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\bin\Debug\LibercionesCSharp.application
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.exe.manifest
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.application
+C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.csprojResolveAssemblyReference.cache
