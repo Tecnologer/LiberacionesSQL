@@ -22,3 +22,6 @@ C:\Users\luis\Desktop\Liberador\LibercionesCSharp\bin\Debug\LibercionesCSharp.ap
 C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.exe.manifest
 C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.application
 C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.csprojResolveAssemblyReference.cache
+C:\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe.config
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.exe
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.pdb
