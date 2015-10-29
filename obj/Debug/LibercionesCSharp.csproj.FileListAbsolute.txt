@@ -25,3 +25,15 @@ C:\Users\luis\Desktop\Liberador\LibercionesCSharp\obj\Debug\LibercionesCSharp.cs
 C:\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe.config
 C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.exe
 C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.pdb
+C:\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe.manifest
+C:\LibercionesCSharp\bin\Debug\LibercionesCSharp.application
+C:\LibercionesCSharp\bin\Debug\LibercionesCSharp.exe
+C:\LibercionesCSharp\bin\Debug\LibercionesCSharp.pdb
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.csprojResolveAssemblyReference.cache
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.AgregarEditar.resources
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.Form1.resources
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.Properties.Resources.resources
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.csproj.GenerateResource.Cache
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.exe.manifest
+C:\LibercionesCSharp\obj\Debug\LibercionesCSharp.application
+C:\LibercionesCSharp\bin\Debug\FastColoredTextBox.dll
