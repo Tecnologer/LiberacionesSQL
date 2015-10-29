@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace LibercionesCSharp
@@ -15,10 +11,10 @@ namespace LibercionesCSharp
 
         public Entidad entidad;
         public bool cancelar;
-
+        
         public AgregarEditar()
         {
-            InitializeComponent();
+            InitializeComponent();            
         }
 
         private void AgregarEditar_Load(object sender, EventArgs e)
@@ -28,6 +24,8 @@ namespace LibercionesCSharp
                 txtNombre.Text = entidad.Nombre;
                 txtScript.Text = entidad.Script;
                 txtScript.ScrollBars = ScrollBars.Vertical;
+                txtScript.KeyDown+=txtScript_KeyDown;
+                txtNombre.KeyDown += txtScript_KeyDown;
             }
             
         }
@@ -44,6 +42,20 @@ namespace LibercionesCSharp
         private void AgregarEditar_FormClosed(object sender, FormClosedEventArgs e)
         {
             
+        }
+        /// <summary>
+        /// 
+        /// </summary>
+        private void txtScript_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Control && (e.KeyCode == Keys.A))
+            {
+                if (sender != null)
+                    ((TextBox)sender).SelectAll();
+                e.Handled = true;
+            }
+            else if (e.KeyCode == Keys.Escape)
+                this.Close();
         }
     }
 }
